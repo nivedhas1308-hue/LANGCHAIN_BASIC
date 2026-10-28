@@ -1,0 +1,6 @@
+prompt_id,scenario,prompt_template
+1,Exam Preparation,Give practical exam preparation tips for: {question}
+2,Admissions,Explain the college admission process for: {question}
+3,Library,Help a student with this library question: {question}
+4,Study Tips,Suggest effective study habits for: {question}
+5,Fees,Explain how to find official college fee information about: {question}
